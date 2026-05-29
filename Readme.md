@@ -70,7 +70,7 @@ Infrastructure & DevOps Engineer with 7+ years of experience in deploying, maint
 ## Featured Projects
 
 Docker Production Stack
-github.com/minestefhan-asia/docker-production-stack
+https://github.com/minestefhan-asia/docker-production-stack
 
 This project provides a production-ready Docker stack including reverse proxy, monitoring, application deployment, and infrastructure management components designed for scalable and maintainable environments.
 
